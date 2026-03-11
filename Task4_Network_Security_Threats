@@ -1,0 +1,86 @@
+# Task 4 – Research Report on Common Network Security Threats
+
+## Objective
+The objective of this task is to research and understand common network security threats such as Denial of Service (DoS) attacks, Man-in-the-Middle (MITM) attacks, and IP Spoofing. This report explains how these attacks work, their impact, and the preventive measures to protect systems and networks.
+
+## Introduction
+Network security threats are malicious activities that target computer networks to steal data, disrupt services, or gain unauthorized access to systems. As organizations rely heavily on digital infrastructure, protecting networks from cyber attacks has become extremely important.
+
+Understanding common network threats helps cybersecurity professionals develop strategies to detect and prevent attacks.
+
+## 1. Denial of Service (DoS) Attack
+
+### Description
+A Denial of Service (DoS) attack is a cyber attack where the attacker attempts to make a computer system or network unavailable to its intended users by overwhelming it with a large amount of traffic.
+
+### How the Attack Works
+The attacker sends a massive number of requests to a server. The server becomes overloaded and cannot respond to legitimate user requests.
+
+### Real World Example
+In 2018, GitHub experienced one of the largest DDoS attacks which temporarily disrupted its services.
+
+### Impact
+- Website or service becomes unavailable
+- Loss of revenue for organizations
+- Reduced user trust
+
+### Prevention Methods
+- Firewalls
+- Intrusion Detection Systems (IDS)
+- Rate limiting
+- Load balancing
+
+
+## 2. Man-in-the-Middle (MITM) Attack
+
+### Description
+A Man-in-the-Middle attack occurs when an attacker secretly intercepts communication between two parties. The attacker can monitor or alter the transmitted information.
+
+### How the Attack Works
+The attacker places themselves between the sender and the receiver and intercepts the data exchange.
+
+Example communication flow:
+
+User → Attacker → Website
+
+### Real World Example
+Public WiFi networks are often used to perform MITM attacks where attackers capture login credentials and sensitive information.
+
+### Impact
+- Data theft
+- Password stealing
+- Privacy violations
+
+### Prevention Methods
+- Use HTTPS encrypted connections
+- Use VPN services
+- Avoid public WiFi for sensitive transactions
+- Enable secure authentication systems
+
+## 3. IP Spoofing
+
+### Description
+IP Spoofing is a technique used by attackers to disguise their identity by modifying the source IP address in network packets.
+
+### How the Attack Works
+Attackers send packets with a fake IP address that appears to come from a trusted source.
+
+### Impact
+- Unauthorized access
+- Network trust exploitation
+- Facilitation of other cyber attacks such as DoS
+
+### Prevention Methods
+- Packet filtering
+- Network monitoring tools
+- Strong authentication systems
+- Secure firewall configurations
+
+
+## Importance of Network Security
+Network security plays a critical role in protecting sensitive information and maintaining the reliability of digital systems. Organizations must continuously monitor networks and apply security measures to prevent cyber attacks.
+
+---
+
+## Conclusion
+Common network security threats such as DoS attacks, Man-in-the-Middle attacks, and IP Spoofing can significantly impact organizations and individuals. By understanding how these attacks operate and implementing appropriate security measures, organizations can strengthen their network defenses and protect valuable information.
