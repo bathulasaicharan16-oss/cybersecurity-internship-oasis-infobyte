@@ -1,0 +1,17 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-03-11 05:36 -0400
+Stats: 0:00:16 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 7.00% done; ETC: 05:40 (0:03:33 remaining)
+Stats: 0:00:42 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 19.50% done; ETC: 05:40 (0:02:53 remaining)
+Stats: 0:00:47 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 22.00% done; ETC: 05:40 (0:02:47 remaining)
+Stats: 0:01:48 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 52.00% done; ETC: 05:40 (0:01:40 remaining)
+Stats: 0:01:49 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 52.50% done; ETC: 05:40 (0:01:39 remaining)
+Nmap scan report for 10.0.2.15
+Host is up.
+All 1000 scanned ports on 10.0.2.15 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap done: 1 IP address (1 host up) scanned in 206.49 seconds
