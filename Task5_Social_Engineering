@@ -1,0 +1,82 @@
+# Task 5 – Research Report on Social Engineering Attacks
+
+## Objective
+The objective of this task is to research social engineering attacks and understand how attackers manipulate human behavior to gain unauthorized access to systems or sensitive information.
+
+## Introduction
+
+Social engineering is a technique used by cyber attackers to manipulate individuals into revealing confidential information such as passwords, bank details, or personal data. Unlike technical hacking, social engineering targets human psychology rather than software vulnerabilities.
+
+Social engineering attacks are one of the most common causes of cybersecurity breaches.
+
+## 1. Phishing Attack
+
+### Description
+Phishing is a cyber attack where attackers send fraudulent emails or messages pretending to be from trusted organizations to trick users into revealing sensitive information.
+
+### How the Attack Works
+The attacker sends an email that looks legitimate, often appearing to come from banks, companies, or government organizations. The email contains a fake website link where the victim enters their login credentials.
+
+### Example
+A fake email claiming to be from a bank asking users to verify their account details.
+
+### Impact
+- Identity theft
+- Financial loss
+- Compromise of personal accounts
+
+### Prevention
+- Verify sender email addresses
+- Avoid clicking suspicious links
+- Use multi-factor authentication
+- Use spam filters
+
+## 2. Pretexting Attack
+
+### Description
+Pretexting occurs when an attacker creates a fabricated story or scenario to obtain sensitive information from a victim.
+
+### How the Attack Works
+The attacker pretends to be a trusted person such as a bank employee, IT support technician, or government official and convinces the victim to share confidential data.
+
+### Example
+An attacker pretending to be IT support asking for login credentials to "fix a problem."
+
+### Impact
+- Unauthorized access to systems
+- Data breaches
+- Financial fraud
+
+### Prevention
+- Verify identity before sharing information
+- Follow company security policies
+- Educate employees about social engineering
+
+## 3. Baiting Attack
+
+### Description
+Baiting is a social engineering attack where attackers lure victims using attractive offers such as free software, downloads, or USB devices.
+
+### How the Attack Works
+The attacker leaves infected USB drives or download links that contain malware. When the victim uses them, malicious software installs on their system.
+
+### Example
+A USB drive labeled “Confidential Data” left in a public place.
+
+### Impact
+- Malware infection
+- Data theft
+- System compromise
+
+### Prevention
+- Avoid using unknown USB devices
+- Install antivirus software
+- Disable automatic USB execution
+
+## Importance of Awareness
+
+User awareness is one of the most effective ways to prevent social engineering attacks. Organizations should conduct cybersecurity awareness training and encourage employees to follow security best practices.
+
+## Conclusion
+
+Social engineering attacks exploit human trust and psychological manipulation rather than technical vulnerabilities. Phishing, pretexting, and baiting are some of the most common social engineering techniques. By increasing awareness and implementing proper security measures, organizations can significantly reduce the risk of such attacks.
